@@ -1,2 +1,5 @@
 # KyivMetro
-Trace the route between two station
+Trace the route between two kyiv metro station.
+
+To compile the executable place metro.c, metro.h, kyiv.c, kyiv.h, makefile in one folder. 
+Then open this folder in terminal and run make to get an executable file "metro".
