@@ -12,4 +12,4 @@ Trace the route between two Kyiv metro station.
 From the station list:
   1) Enter start station;
   2) Enter destination station;
-  3) See the route.
+  3) See the route and aproximate arriving time.
